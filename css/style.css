@@ -1,3 +1,41 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: rgb(91, 129, 41);
+}
+.banner-column{
+    background-color: rgb(163, 128, 38);
+}
+.navbar-container{
+    top: 0;
+    background-color: rgb(21, 15, 51);
+    position: sticky;
+}
+.about-container{
+    background-color: rgb(38, 206, 206);
+}
+.education-container{
+    background-color: rgb(240, 233, 221);
+}
+.red-type{
+    background-color: rgb(224, 81, 81);
+}
+.red-type-color{
+    color: rgb(224, 81, 81);
+}
+.cirle{
+    background-color: rgb(224, 81, 81);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: rgb(38, 206, 206);
+}
+.project-color{
+    color: seashell;
+}
+.portfolio-container{
+
+}
