@@ -37,5 +37,8 @@ body{
     color: seashell;
 }
 .portfolio-container{
-
+background-color: rgb(9, 48, 75);
+}
+.gallery-container{
+background-color: indigo;
 }
