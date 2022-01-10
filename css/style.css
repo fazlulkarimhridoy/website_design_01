@@ -6,6 +6,7 @@ body{
 }
 .banner-column{
     background-color: rgb(250, 117, 161);
+    border-radius: 15px;
 }
 .navbar-container{
     top: 0;
